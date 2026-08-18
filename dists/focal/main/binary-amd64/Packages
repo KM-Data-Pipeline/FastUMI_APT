@@ -1,0 +1,38 @@
+Package: fastumi-tools
+Version: 0.1.6
+Architecture: amd64
+Maintainer: FastUMI Team <yding25@binghamton.edu>
+Depends: python3 (>= 3.8), systemd, udev, xdg-utils, dfu-util, python3-opencv, python3-numpy
+Recommends: fastumi-tools-resources (>= 2026.08.18.1), v4l-utils, g++, gnome-terminal
+Suggests: rviz
+Filename: pool/main/f/fastumi-tools/fastumi-tools_0.1.6_amd64.deb
+Size: 188132
+MD5sum: c873c60c420ac3b3958792d8fc1ae2da
+SHA1: dc1c7e63a7148cc24963f3e97f1540da48f47d01
+SHA256: f967a9de7a3863022b48ea0d73532f4cc280024f29129b7542d96296221da4d1
+Section: utils
+Priority: optional
+Homepage: https://github.com/KM-Data-Pipeline/FastUMI_Tools
+Description: Unified FastUMI device management console
+ FastUMI Tools for Ubuntu 20.04 provides a local web console for XVSDK and firmware
+ management, USB and version diagnostics, ROS topic monitoring, RViz,
+ camera preview and calibration utilities.
+
+Package: fastumi-tools-resources
+Version: 2026.08.18.1
+Architecture: amd64
+Maintainer: FastUMI Team <yding25@binghamton.edu>
+Depends: fastumi-tools (>= 0.1.6)
+Filename: pool/main/f/fastumi-tools/fastumi-tools-resources_2026.08.18.1_amd64.deb
+Size: 52471934
+MD5sum: 28827b82cbd628e353c87a2953881d86
+SHA1: e47fd1b2bcdf51fb136a774c38ba1f849fd3ebdd
+SHA256: 08d925fda573adde99644d7ddd86dc304a0f5b063bf579702431d39c36df41fc
+Section: utils
+Priority: optional
+Homepage: https://github.com/KM-Data-Pipeline/FastUMI_Tools
+Description: XVSDK and firmware resources for FastUMI Tools
+ Versioned XVSDK packages and camera firmware artifacts used by FastUMI Tools
+ on Ubuntu 20.04 Focal amd64. Files are verified against the FastUMI catalog
+ before installation or flashing.
+

@@ -1,0 +1,14 @@
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./.nojekyll
+4e42eaef24973758cd8e3b4d47f0a3b3544f54e13a661163cbd5b19e99908a6e  ./dists/focal/InRelease
+00a19243aa424cfd095c345f6ba292bbbdd41e9e2cafee98fed7e72feabcb13e  ./dists/focal/Release
+ebf1cdf03a8118051d54a4d272869f5d7c31b9b5353d3a5b229299dda408c6e1  ./dists/focal/Release.gpg
+18e3c1f0aed850aa27d3ecf8205adfc2a6cae795e370c2f17d071b3246e9c431  ./dists/focal/main/binary-amd64/Packages
+8f68536bb68501aee3375bd017daa548fd254d69e54a042032cf171fb416be57  ./dists/focal/main/binary-amd64/Packages.gz
+e0cbc2bd779dfd0e65a6242e486dd9a1f8611b01e57db328f627178adbd12a07  ./dists/focal/main/binary-amd64/Packages.xz
+0f19e60d62d9d2256dadaf5743d7814634c8ca893778a5f308f1fac8dbdc1116  ./downloads/fastumi-tools-offline_0.1.6_amd64.tar.gz
+3c68862b4f572b95f26cf1ac0bcd7b27d849a938c4a9e18c9a44812089f1dbe3  ./fastumi-archive-keyring.asc
+46b63337b7dad7909d14406bc24f6f4123170ac7660e51457d81b566c3197323  ./fastumi-archive-keyring.gpg
+9b4072fe8d58ef1d1e9edad941c81d8ee7f59f4ba6ee03a2b6b45f5c7b9a40f2  ./index.html
+1fbd807774a7b8ce7ab0ba114ded710a4ac4f0213ca6b69b5b9ada0a73f2803f  ./install-fastumi-repository.sh
+08d925fda573adde99644d7ddd86dc304a0f5b063bf579702431d39c36df41fc  ./pool/main/f/fastumi-tools/fastumi-tools-resources_2026.08.18.1_amd64.deb
+f967a9de7a3863022b48ea0d73532f4cc280024f29129b7542d96296221da4d1  ./pool/main/f/fastumi-tools/fastumi-tools_0.1.6_amd64.deb
